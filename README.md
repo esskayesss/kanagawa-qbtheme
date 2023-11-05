@@ -2,6 +2,14 @@
   the kanagawa theme for qBittorrent
 </h1>
 
+> ⚠️ seeking contributions: [icons needed](#contributing)
+
+<p align="center">
+  <img src="res/version1.x_1.png">
+  <br>
+  <i>colorscheme: kanagawa • qBittorrent</i>
+</p>
+
 ## seeking contributions: icons needed!
 
 **We're on the lookout for contributors!** 🚀
@@ -11,11 +19,7 @@
 
 Jump in and help us craft a cohesive and visually appealing experience for qBittorrent users!
 
-<p align="center">
-  <img src="res/version1.x_1.png">
-  <br>
-  <i>colorscheme: kanagawa • qBittorrent</i>
-</p>
+
 
 ## colorscheme
 
@@ -32,15 +36,10 @@ Jump in and help us craft a cohesive and visually appealing experience for qBitt
 
 ## contributing
 
-- Ensure any icons or graphical contributions match the Kanagawa colorscheme's pastel vibe.
-- Include screenshots of your proposed changes in your pull request.
-- Update the documentation to reflect your changes if necessary.
-- Do not include any changes that are not directly related to the theme aesthetics.
+**We're on the lookout for contributors!** 🚀
 
-1. **Fork** the repository.
-2. **Clone** the project to your own machine.
-3. **Commit** changes to your own branch.
-4. **Push** your work back up to your fork.
-5. Submit a **Pull request** so that we can review your improvements.
+- **Especially for icon design:** Tailored to match the Kanagawa theme's pastel tones.
+- **Make an impact:** Your icons are the missing pieces to complete our aesthetic puzzle.
 
+Jump in and help us craft a cohesive and visually appealing experience for qBittorrent users!
 We look forward to seeing your creative contributions. Together, we can make the Kanagawa theme for qBittorrent even more beautiful and user-friendly!
