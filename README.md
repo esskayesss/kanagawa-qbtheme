@@ -45,7 +45,7 @@ Jump in and help us craft a cohesive and visually appealing experience for qBitt
 > - In your qBittorrent settings, browse into `Behavior -> Interface` section
 > - choose the downloaded file for the `UI Theme file` option after checking the `Use Custom UI Theme` checkbox.
 > 
-> You can find more themes and yet guide [here](https://github.com/jagannatharjun/qbt-theme)
+> You can find more themes and yet another guide [here](https://github.com/jagannatharjun/qbt-theme)
 
 1. **Download the theme file:**
    - Download [`kanagawa.qbtheme`](https://github.com/esskayesss/kanagawa-qbtheme/blob/main/kanagawa.qbtheme) by clicking on the `Download raw file` button.
