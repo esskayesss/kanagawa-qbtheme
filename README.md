@@ -10,6 +10,9 @@
   <i>colorscheme: kanagawa • qBittorrent</i>
 </p>
 
+> sorry for the Mac screenshot here, I use arch btw. the blasphemy is for the sake of portability :( 
+
+
 ## seeking contributions: icons needed!
 
 **We're on the lookout for contributors!** 🚀
@@ -32,6 +35,36 @@ Jump in and help us craft a cohesive and visually appealing experience for qBitt
     found in the <a href="https://github.com/esskayesss/dots"> <code>dots</code></a> repository. A big shout-out to the creator for making the palette public.
   </p>
 </div>
+
+
+## installation
+
+> as a TLDR,
+> For any theme on qBittorrent,
+> - Get the `*.qbtheme` file. In this case, this is [`kanagawa.qbtheme`](https://github.com/esskayesss/kanagawa-qbtheme/blob/main/kanagawa.qbtheme)
+> - In your qBittorrent settings, browse into `Behavior -> Interface` section
+> - choose the downloaded file for the `UI Theme file` option after checking the `Use Custom UI Theme` checkbox.
+> 
+> You can find more themes and yet guide [here](https://github.com/jagannatharjun/qbt-theme)
+
+1. **Download the theme file:**
+   - Download [`kanagawa.qbtheme`](https://github.com/esskayesss/kanagawa-qbtheme/blob/main/kanagawa.qbtheme) by clicking on the `Download raw file` button.
+   - Alternatively, you can clone the repository in a folder of your choice to be able to pull for new changes.
+2. **Move the file into a theme folder:**
+   - Locate the extracted file and move it to a qBittorrent themes directory. This can be anywhere, but for the sake of organization, I use the following paths:
+     - For Windows: `C:\Users\YourUsername\qBittorrent\themes`
+     - For Linux: `~/.config/qBittorrent/themes`
+
+3. **Select the theme:**
+   - Open qBittorrent and go to `Tools -> Options -> Behavior`. <br>
+      In case of a Mac, this will be `Preferences -> Behavior`
+   - Here, in the interface section, check the `User custom UI Theme` option.
+   - Proceed to select the `kanagawa.qbtheme` file from the file explorer for the `UI Theme file:` option.
+
+4. **Restart qBittorrent:**
+   - Close and reopen qBittorrent for the changes to take effect.
+
+That's it! Your new theme should now be applied to qBittorrent.
 
 
 ## contributing
