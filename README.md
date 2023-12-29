@@ -5,7 +5,7 @@
 > ⚠️ seeking contributions: [icons needed](#contributing)
 
 <p align="center">
-  <img src="res/version1.x_1.png">
+  <img src="res/release.png">
   <br>
   <i>colorscheme: kanagawa • qBittorrent</i>
 </p>
