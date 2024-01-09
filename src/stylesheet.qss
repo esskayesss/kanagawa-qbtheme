@@ -585,10 +585,10 @@ QGroupBox::title:disabled {
 }
 
 TransferListWidget {
-  qproperty-downloadingStateForeground: #76946A;
-  qproperty-forcedDownloadingStateForeground: #76946A;
-  qproperty-downloadingMetadataStateForeground: #2B3328;
-  qproperty-stalledDownloadingStateForeground: #98BB6C;
+  qproperty-downloadingStateForeground: #98BB6C;
+  qproperty-forcedDownloadingStateForeground: #98BB6C;
+  qproperty-downloadingMetadataStateForeground: #76946A;
+  qproperty-stalledDownloadingStateForeground: #76946A;
   qproperty-pausedDownloadingStateForeground: #6A9589;
   qproperty-queuedDownloadingStateForeground: #6A9589;
 
